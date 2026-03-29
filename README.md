@@ -53,7 +53,10 @@ It includes multiple tasks like designing, coding, communication, and cyber safe
 - Created an infographic using Canva  
 - Explained digital literacy in simple terms  
 - Included tools, safety, and communication topics  
-- Used icons and colours/colors for clarity  
+- Used icons and colours/colors for clarity
+- 📎 **Infographic Link:**  
+👉 [View Canva Design](https://www.canva.com/design/DAHFO3Aoszc/WeQwg1MN_clwAI-F2Yy90g/edit?utm_content=DAHFO3Aoszc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 **What I learned:**  
 - Visual content is easier to understand  
@@ -69,7 +72,9 @@ It includes multiple tasks like designing, coding, communication, and cyber safe
 **Platforms Used:**  
 - GitHub  
 - LinkedIn  
-- ResearchGate  
+- ResearchGate
+- 📎 **GitHub Repository:**  
+👉 [View My GitHub Project](PASTE_YOUR_GITHUB_LINK_HERE)
 
 **Work done:**  
 - Created profiles  
@@ -94,7 +99,9 @@ It includes multiple tasks like designing, coding, communication, and cyber safe
 ### 📊 Collaboration (Google Forms)
 - Created a quiz (5 questions)  
 - Used MCQs + short answers  
-- Learned response collection  
+- Learned response collection
+- 📎 **Google Form Link:**  
+👉 [Attempt the Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc7g0p5pk_luCR2ov4wf5zEWqsI9Y5L4qCyrS2k4P3CSU3Qlg/viewform?usp=publish-editor)  
 
 **Key Learning:**  
 - Coding improves thinking  
