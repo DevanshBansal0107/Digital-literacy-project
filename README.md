@@ -74,7 +74,7 @@ It includes multiple tasks like designing, coding, communication, and cyber safe
 - LinkedIn  
 - ResearchGate
 - 📎 **GitHub Repository:**  
-👉 [View My GitHub Project](https://github.com/DevanshBansal0107/Digital-literacy-project.git)
+👉 [My GitHub](https://github.com/DevanshBansal0107))
 
 **Work done:**  
 - Created profiles  
