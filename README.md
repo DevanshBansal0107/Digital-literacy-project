@@ -74,7 +74,7 @@ It includes multiple tasks like designing, coding, communication, and cyber safe
 - LinkedIn  
 - ResearchGate
 - 📎 **GitHub Repository:**  
-👉 [My GitHub](https://github.com/DevanshBansal0107))
+👉 [My GitHub](https://github.com/DevanshBansal0107)
 
 **Work done:**  
 - Created profiles  
